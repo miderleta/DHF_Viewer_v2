@@ -1,0 +1,3 @@
+- check if I can use SQLite for this.
+- how can I use SQLite with Python?
+- QT for GUI dev?
